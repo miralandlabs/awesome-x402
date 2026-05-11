@@ -73,6 +73,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 #### Extensions
 - [ERC-3009 Forwarding](https://github.com/TheGreatAxios/eip3009-forwarder): forwarding contract extending meta-transactions with EIP-721 signatures to any ERC-20 on any network
+- [x402 Extensions Overview](https://docs.x402.org/extensions/overview): official guide to x402 resource server and facilitator extension points
+- [A2A x402 Extension](https://github.com/google-agentic-commerce/a2a-x402): specification, libraries, and examples for adding on-chain x402 payments to Agent-to-Agent services
 
 ### Tutorials & Guides
 - [Alchemy - What is x402?](https://www.alchemy.com/blog/how-x402-brings-real-time-crypto-payments-to-the-web) - Developer explainer covering the HTTP 402 payment flow, agent use cases, and x402 Foundation context.
@@ -85,6 +87,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Foundation – MCP Server with x402](https://docs.x402.org/guides/mcp-server-with-x402)
 - [Base AgentKit – Building Autonomous Agents with x402](https://docs.base.org/agentkit/x402)
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
+- [Cloudflare Agents x402 Docs](https://developers.cloudflare.com/agents/agentic-payments/x402/): official Cloudflare guide for charging and paying for resources with x402 in Agents
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
 - [Privy – Using x402 payments with embedded wallets](https://docs.privy.io/recipes/agent-integrations/x402) – React and Node.js examples for signing x402 payments from Privy wallets.
 - [Magic – x402 Payments with Embedded Wallets](https://docs.magic.link/recipes/embedded-wallets/x402-payments) – Guide for using Magic embedded wallets to pay for x402-protected APIs with USDC.
