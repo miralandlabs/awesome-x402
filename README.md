@@ -14,6 +14,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Official Resources
 - [x402 Official Website](https://www.x402.org)
+- [x402 Protocol Docs](https://docs.x402.org/introduction)
 - [x402 Foundation Docs](https://docs.x402.org/) - Credibly neutral documentation for the open x402 standard.
 - [x402 Foundation at the Linux Foundation](https://www.linuxfoundation.org/x402foundation)
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
@@ -35,6 +36,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)
 - [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
+- [x402 on Stellar](https://developers.stellar.org/docs/build/agentic-payments/x402) - Stellar payment flow, compatible wallets, and facilitator options for x402 payments.
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
