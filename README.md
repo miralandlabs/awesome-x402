@@ -34,6 +34,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402station](https://x402station.com/) - Analytics and monitoring platform for x402 services with real-time insights and performance tracking.
 - [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar) - Free public leaderboard of every paid x402 service indexed via the Coinbase CDP discovery API. Refreshed every 15 min, four views (top by volume / unique payers / recently active / cheapest), JSON variant at `/bazaar.json`. Complementary CDP-only slice next to x402Scan's multi-source view.
 - [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+- [Strale](https://strale.dev) - Business data & compliance APIs for AI agents. 250+ quality-scored capabilities (company data, VAT validation, sanctions screening, KYB) across 27 countries with x402 payment support. [MCP server](https://www.npmjs.com/package/strale-mcp) available.
 - [Hedera and the x402 Payment Standard](https://hedera.com/blog/hedera-and-the-x402-payment-standard/) - Hedera ecosystem overview of x402-style programmable payments for applications and AI agents.
 - [CardZero](https://cardzero.ai) - Smart-contract wallet (ERC-4337) for AI agents on Base mainnet, USDC. Buyer-side x402 support via `POST /v1/x402/pay`. Owner-controlled spending rules (per-tx limit, daily cap, whitelist, freeze) enforced on-chain. Also runs first known production deployment of ERC-8004 + ERC-8183.
 
@@ -76,6 +77,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents. `npx x402-proxy`.
 - [agent-wallet-sdk (NPM)](https://www.npmjs.com/package/agentwallet-sdk) - Non-custodial multi-chain wallet SDK for AI agents with native x402 payment support, CCTP cross-chain transfers, and CowSwap solver integration.
 - [x402 Wallet for Claude Desktop](https://github.com/402md/x402-wallet-for-claude-desktop) - Claude Desktop extension with x402 USDC payments on Stellar and Base. Automatic 402 handling with configurable spending limits.
+- [strale-mcp (NPM)](https://www.npmjs.com/package/strale-mcp) - MCP server for Strale's x402 capability catalog (KYB, sanctions, financial validation, business registries).
 - [@zkproofport-ai/mcp](https://github.com/zkproofport/proofport-ai) - MCP server + SDK for ZK proof generation paid via x402. Generate Coinbase KYC, Country, OIDC domain, or Google Workspace proofs from any AI agent.
 - [x402-rails (QuickNode)](https://github.com/quiknode-labs/x402-rails) - Ruby gem for integrating blockchain micropayments into your Ruby on Rails application
 - [x402-payments (QuickNode)](https://github.com/quiknode-labs/x402-payments) - Ruby gem for generating signed payment HTTP headers and links using the X402 protocol
