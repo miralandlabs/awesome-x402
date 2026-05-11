@@ -14,6 +14,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Official Resources
 - [x402 Official Website](https://www.x402.org)
+- [x402 Foundation Docs](https://docs.x402.org/) - Credibly neutral documentation for the open x402 standard.
+- [x402 Foundation at the Linux Foundation](https://www.linuxfoundation.org/x402foundation)
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 Developer Docs Portal](https://docs.cdp.coinbase.com/x402/welcome)
 - [Coinbase Announcement – Introducing x402](https://www.coinbase.com/developer-platform/discover/launches/x402)
