@@ -18,6 +18,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Foundation at the Linux Foundation](https://www.linuxfoundation.org/x402foundation)
 - [x402 Whitepaper (PDF)](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 Developer Docs Portal](https://docs.cdp.coinbase.com/x402/welcome)
+- [x402 Docs llms.txt](https://docs.x402.org/llms.txt) - Machine-readable index of the x402 docs for AI agents and LLM-assisted integrations.
 - [Coinbase Announcement – Introducing x402](https://www.coinbase.com/developer-platform/discover/launches/x402)
 - [x402 V2 Launch Note](https://www.x402.org/writing/x402-v2-launch) - official overview of the v2 protocol changes, including modular SDKs, CAIP identifiers, and expanded payment flows.
 - [x402 Foundation GitHub repo](https://github.com/x402-foundation/x402) — canonical spec, SDKs, issues, proposals, and reference materials
@@ -95,6 +96,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
+- [Vercel x402 AI Starter](https://vercel.com/templates/ai/x402-ai-starter) - Full-stack Next.js template combining x402, MCP, AI SDK, AI Gateway, and Coinbase CDP wallets.
 
 
 ### Security & Ops
