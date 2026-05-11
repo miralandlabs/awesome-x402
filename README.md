@@ -44,6 +44,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402 TypeScript SDKs](https://github.com/x402-foundation/x402/tree/main/typescript)
 - [x402 Python SDK](https://github.com/x402-foundation/x402/tree/main/python/x402) - Official Python client/server, facilitator, and MCP helpers.
+- [x402 Python SDK (PyPI)](https://pypi.org/project/x402/) - Official Python package for client, server, facilitator, and framework integrations.
 - [x402 Go SDK](https://github.com/x402-foundation/x402/tree/main/go) - Official Go client/server, facilitator, and MCP package.
 - [x402 Java SDK](https://github.com/x402-foundation/x402/tree/main/java) - Official Java implementation for JVM services.
 - [x402-analytics (NPM)](https://www.npmjs.com/package/x402-analytics) - Analytics wrapper for x402 payments with monitoring and insights.
