@@ -105,6 +105,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata – Monetize AI Hardware (Jetson) with x402](https://pinata.cloud/blog/using-x402-to-monetize-ai-hardware/)
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
+- [Cloudflare Agents x402 Example](https://github.com/cloudflare/agents/tree/main/examples/x402) – Official example showing how to gate Cloudflare Agents endpoints with x402 payments.
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
 - [x402 Starter Kit – by Nader Dabit](https://github.com/dabit3/x402-starter-kit) – Simplest starter kit for building and deploying x402 APIs quickly.
 - [Vercel x402 AI Starter](https://vercel.com/templates/ai/x402-ai-starter) - Full-stack Next.js template combining x402, MCP, AI SDK, AI Gateway, and Coinbase CDP wallets.
