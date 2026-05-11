@@ -66,6 +66,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
+- [Bermuda (ZK-private x402)](https://www.bermudabay.xyz) - ZK-private HTTP payments for x402 using Noir proofs on Base. Adds sender privacy so agents can pay without exposing wallet state. ([Docs](https://docs.bermudabay.xyz/sdk/x402))
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
 - [Gatefare MCP](https://github.com/gatefareio/mcp-server) — Marketplace MCP server for paid HTTP APIs. 13 tools across discovery, buyer (auto 402→sign→retry), and publisher domains. Non-custodial, USDC on Base. Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=gatefareio). Install: `npx -y @gatefare/mcp`. ([npm](https://www.npmjs.com/package/@gatefare/mcp))
 - [agenticpay Facilitator (Solana, open-source TypeScript)](https://github.com/krystiangw/agenticpay/tree/main/packages/facilitator) — Self-hostable verify+settle with `feePayer` abstraction (payers send only USDC). Hosted devnet endpoint: `https://agentpay-facilitator-e9b20a5fee6a.herokuapp.com`.
